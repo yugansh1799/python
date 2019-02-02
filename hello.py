@@ -1,0 +1,5 @@
+pythonprint("hello world")
+print("this is a \\\\ double backslash")
+print("these are //\\//\\//\\//\\//\\ mountains")
+print("he is \t awesome boy")
+print("\\\" \\n \\t \\\'")
